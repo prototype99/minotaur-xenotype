@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<!--============================== Fixed Xenotype Icons ============================-->
+	<!-- Minotaur Xenotype -->
+
+	<XenotypeIconDef>
+		<defName>Minotaur</defName>
+		<texPath>UI/XenotypeIcons/Minotaur</texPath>
+	</XenotypeIconDef>
+
+    </Defs>

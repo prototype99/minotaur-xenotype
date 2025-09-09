@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationConditional">
+        <xpath>Defs/GeneDef[defName="Furskin"]</xpath>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/GeneDef[defName="Furskin"]/forcedHeadTypes</xpath>
+            <value>
+                <li>Furskin_BovineMaleAverageHeadNormal</li>
+                <li>Furskin_BovineMaleAverageHeadWide</li>
+                <li>Furskin_BovineMaleAverageHeadPointy</li>
+                <li>Furskin_BovineFemaleAverageHeadNormal</li>
+                <li>Furskin_BovineFemaleAverageHeadWide</li>
+                <li>Furskin_BovineFemaleAverageHeadPointy</li>
+            </value>
+        </match>
+    </Operation>
+</Patch>

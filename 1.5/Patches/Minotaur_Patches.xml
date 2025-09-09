@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+    <!--Adds minotaur to outlander factions-->
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="OutlanderFactionBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="OutlanderFactionBase"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<Minotaur MayRequire="Ludeon.RimWorld.Biotech">0.05</Minotaur>
+			</value>
+		</match>
+	</Operation>
+
+    	<!--Adds minotaur to rough outlander factions-->
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="OutlanderRoughBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="OutlanderRoughBase"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<Minotaur MayRequire="Ludeon.RimWorld.Biotech">0.05</Minotaur>
+			</value>
+		</match>
+	</Operation>
+
+        <!--Adds minotaur to tribe factions-->
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="TribeBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="TribeBase   "]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<Minotaur MayRequire="Ludeon.RimWorld.Biotech">0.05</Minotaur>
+			</value>
+		</match>
+	</Operation>
+
+    	<!--Adds minotaur to rough tribe factions-->
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="TribeRoughBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="TribeRoughBase"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<Minotaur MayRequire="Ludeon.RimWorld.Biotech">0.05</Minotaur>
+			</value>
+		</match>
+	</Operation>
+
+	<!--Adds minotaur to pirate factions-->
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="PirateBandBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="PirateBandBase"]</xpath>
+			<value>
+				<li>
+					<xenotypeSet>
+						<xenotypeChances>
+							<Minotaur MayRequire="Ludeon.RimWorld.Biotech">0.05</Minotaur>
+						</xenotypeChances>
+					</xenotypeSet>
+				</li>
+			</value>
+		</match>
+	</Operation>
+</Patch>

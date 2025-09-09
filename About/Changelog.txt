@@ -1,0 +1,4 @@
+# Changelog for MinotaurRace
+
+1.5.0 - Mod overhauled and updated for 1.5. Initial Re-Release.
+

@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Minotaurs (Xenotype)\1.5\Assemblies\Minotaurs.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Minotaurs (Xenotype)\1.5\Source\obj\Debug\Minotaurs.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Minotaurs (Xenotype)\1.5\Source\obj\Debug\Minotaurs.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Minotaurs (Xenotype)\1.5\Source\obj\Debug\Minotaurs.dll

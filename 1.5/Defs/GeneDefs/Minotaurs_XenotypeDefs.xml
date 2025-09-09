@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<XenotypeDef>
+		<defName>Minotaur</defName>
+		<label>minotaur</label>
+		<!-- Desc -->
+		<description>Born from the world of New Crete, the minotaur xenotype claim their name and likeness from the ancient myth of Earth's past. This bovid xenotype, while cosmetically a radical departure from baseline humanity, is more alike to baseliners than most of the more baseline-looking varieties of post-human in the galaxy.</description>
+		<descriptionShort>A bovine-appearing xenotype that originate from New Crete. They are mechanically identical to baseliners, despite their radical aesthetic departure from baseline humanity.</descriptionShort>
+		<!-- Stats -->
+		<iconPath>UI/Icons/Xenotypes/Minotaur</iconPath>
+		<inheritable>true</inheritable>
+		<genes>
+			<!-- Ability -->
+			<!-- Cosmetic -->
+			<li>Horns_Bovine</li>
+			<li>Head_Bovine</li>
+			<li>Ears_Bovine</li>
+			<li>Tail_Bovine</li>
+            <!-- Bodies -->
+            <li>Body_Standard</li>
+            <li>Body_Thin</li>
+            <li>Body_Hulk</li>
+			<!-- Skins -->
+			<li>Skin_Earthy</li>
+			<li>Skin_Chocolate</li>
+			<li>Skin_Black</li>
+			<li>Skin_InkBlack</li>
+			<li>Skin_SlateGray</li>
+			<li>Skin_LightGray</li>
+			<li>Skin_SheerWhite</li>
+			<!-- Skills -->
+			<!-- Other -->
+			<!--<li>ClovenHooves</li> -->
+		</genes>
+	</XenotypeDef>
+</Defs>

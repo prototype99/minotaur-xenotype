@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N2iV5XGfnyPb1zFQYb7KDGZMOxaNYKe8t//u+CD/2HhcpzD2gedjlIhZ4GTEKMwlvR2SiKNCnhM/bTQeWbtu4w==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Minotaurs (Xenotype)\\1.5\\Source\\Minotaurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4063\\krafs.rimworld.ref.1.5.4063.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
